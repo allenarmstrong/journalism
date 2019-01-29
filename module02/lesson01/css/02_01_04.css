@@ -1,0 +1,125 @@
+
+@mixin translate($x, $y) {
+  -webkit-transform: translate($x, $y);
+      -ms-transform: translate($x, $y); // IE9+
+          transform: translate($x, $y);
+}
+@mixin transition($transition) {
+  -webkit-transition: $transition;
+          transition: $transition;
+}
+@mixin transition-transform($transition) {
+  -webkit-transition: -webkit-transform unquote($transition);
+     -moz-transition: -moz-transform unquote($transition);
+       -o-transition: -o-transform unquote($transition);
+          transition: transform unquote($transition);
+}
+
+
+
+.btn1{
+  background: #428bca;
+  border: darken(#428bca, 5%) solid 1px;
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  padding: 8px 15px;
+  text-decoration: none;
+  text-align: center;
+  min-width: 120px;
+  position: relative;
+  transition: color .1s ease;
+  
+ 
+  
+  &.btn-big1{
+    font-size: 18px;
+    padding: 15px 20px;
+    min-width: 100px;
+  }
+  
+}
+
+.btn-close1{
+  color: #aaa;
+  font-size: 30px;
+  text-decoration: none;
+  position: absolute; right: 5px; top: 0;
+  
+  &:hover{
+     color: darken(#aaa, 10%);
+  }
+  
+}
+
+
+.mmodal{
+  
+  // This is modal bg
+  &:before{
+    content: ""; 
+    /*display: none;*/
+    background: rgba(0,0,0,0); 
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0; 
+    z-index: -1;
+    
+  }
+  
+  &:target{
+    
+    // Active animate in modal
+    &:before{
+      @include transition-transform("0.9s ease-out");
+    z-index:10;  
+    background: rgba(0,0,0,.6); 
+      /*display: block;*/
+    } 
+  }
+  
+}
+.mmodal:target + .mmodal-dialog{
+      @include translate(0, 0);
+      top: 20%;  
+    }
+
+
+.mmodal-dialog{
+  background: #fefefe;
+  border: #333 solid 1px;
+  border-radius: 5px;
+  margin-left: -200px;
+  position: fixed; 
+  left: 50%; 
+  top: -100%;  
+  z-index: 11; 
+  width: 360px;
+  @include translate(0, -500%);
+  @include transition-transform("0.3s ease-out");
+}
+
+.mmodal-body{
+  padding: 10px;
+}
+
+.mmodal-header,
+.mmodal-footer{
+  padding: 10px 10px;
+}
+
+.mmodal-header{
+  border-bottom: #eee solid 1px;
+  
+  h2{
+    font-size: 20px;
+  }
+  
+}
+
+.mmodal-footer{
+  border-top: #eee solid 1px;
+  text-align: right;
+}
+ 
+

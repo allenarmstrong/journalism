@@ -1,0 +1,16 @@
+.image-container .enlarge {
+    width: 32px;
+    height: 32px;
+    background-image: url(../imgs/icons/img-enlarge.png);
+    position: absolute;
+    visibility: none !important;
+    top: 0;
+    right: 0;
+}
+.glyphicon-share:before {
+    content: "Text Version" !important;
+    
+}
+.glyphicon {
+    font-family: 'open_sansregular', sans-serif !important;
+}

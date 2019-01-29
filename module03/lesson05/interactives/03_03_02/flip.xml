@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+	<title>Revising and Editing</title>
+	<directionsTextVer>Select each card.</directionsTextVer>
+	<width>180</width>
+	<height>280</height>
+	<bgcolor>#bebebe</bgcolor>
+	<speed>350</speed>
+	<spinDirection>lr</spinDirection>
+	<customTextVer></customTextVer>
+  
+	<flipcard>
+	  <cardfront>
+	  	<title>Main Idea</title>
+		<text></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src>i</src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	 	<title>Main Idea</title>
+	    <text>Your story should include a clear “human interest” element that is the focus of your writing. Check every time you have quoted someone, described something, or referred to your research. Every single reference should relate to the main idea of your story. If there’s anything that seems even slightly irrelevant, remove it for something that sticks to the topic. </text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+	<flipcard>
+	  <cardfront>
+	    <title>Lead and Conclusion</title>
+		<text></text>
+	  		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	 	<title>Lead and Conclusion</title>
+	    <text>Read your lead and your conclusion again to make sure they’re as engaging as possible. They should both set and maintain an appropriate tone for the story. Your lead should get your readers interested, and your conclusion should reflect upon where you started.  </text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+	<flipcard>
+	  <cardfront>
+	    <title>Transitions</title>
+	    <text></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	   	<title>Transitions</title>
+	    <text>It’s important to use logical transitions between your ideas to show how they’re connected. Every time you’re moving to a new thought, use a transition to keep things moving in a logical order.  </text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+		<flipcard>
+	  <cardfront>
+	    <title>Descriptions</title>
+	    <text></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	   	<title>Descriptions</title>
+	    <text>Your readers want to visualize what you’re writing about. Check for important people, places, and events mentioned in your story and make sure they have been described so readers can really “see” them in their minds.   </text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+		<flipcard>
+	  <cardfront>
+	    <title>Adjectives and Adverbs</title>
+	    <text></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	   	<title>Adjectives and Adverbs</title>
+	    <text>In fiction, it’s often useful to include adjectives and adverbs, describing the “beautiful flower” rather than the flower. However, in feature writing, this is considered less useful. Readers want to make up their minds on their own. Tell them what kind of flower it was – perhaps an orchid or a rose – but let them decide from factual details whether it was beautiful. In other words, leave out unnecessary adjectives and adverbs.   </text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+			<flipcard>
+	  <cardfront>
+	    <title>Sentence Structure </title>
+	    <text></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	   	<title>Sentence Structure </title>
+	    <text>Read your sentences. Do you have several short ones that could be combined? Do you have several long thoughts in a row that should be broken up? Readers like to see variety in your sentence structure. That’s a key to good writing. Give it a try in your revisions! </text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+				<flipcard>
+	  <cardfront>
+	    <title>Action verbs  </title>
+	    <text></text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	   	<title>Action verbs </title>
+	    <text>Keep your writing active rather than passive. Moreover, search for verbs that help tell your story more clearly. He could “run” to the hospital, or he could “dash” there. Remember, be truthful, but be descriptive.  </text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+
+</settings>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbook>
+	<directionsTextVer>Text version directions.</directionsTextVer>
+	
+	<cover>
+	  <title>American Journalism, Then and Now</title>
+	  <author></author>
+	  <instructions>To open this flipbook, simply select the edge of right side of the book's cover. To advance pages, simply select the right, or left, side. </instructions>
+	  
+	</cover>
+	<page>
+		<![CDATA[
+			<p>In the American colonies, British authorities shut down several controversial publications for printing news that the leaders of the colonies didn't want to see in papers. </p>
+    	<p>As a result, many of the earliest colonial newspapers simply focused on inoffensive, local details, such as suggestions for housekeeping and notices about weddings, births, and deaths. There are some accounts of publishers printing controversial information with severe consequences.</p>
+		]]>
+	</page>
+		
+	<page correct="Excellent! You have read these paragraphs and internalized the information. This is what a reporter must do to learn important details for a news story!" incorrect="Take another look at the paragraphs you just read. The more you review information, the better you will understand it!" failed="Take another look at the paragraphs you just read. The more you review information, the better you will understand it!">
+		<![CDATA[
+		
+		<p>John Peter Zenger, in 1734, was arrested and stood trial for running an article in <em>The New-York Weekly Journal</em> that was critical of the governor of New York. Zenger was later acquitted, and his trial remains an important piece of early journalism history.</p>
+		
+		<div class="mc">
+				<p>Why did John Peter Zenger get arrested?</p>
+				<label><input type="radio" name="choice" value="He criticized a government official in his newspaper." data-answer="true">He criticized a government official in his newspaper.</label>
+				<label><input type="radio" name="choice" value="He charged a high price for issues of his newspaper.">He charged a high price for issues of his newspaper.</label>
+				<label><input type="radio" name="choice" value="He published lies about the government in his newspaper.">He published lies about the government in his newspaper.</label>
+				
+				<button disabled="disabled">Submit</button>
+		</div>
+		
+		]]>
+	</page>
+	
+	<page>
+		<![CDATA[
+			<img src="interactives/01_02_02/intmedia/newspapers_compared.jpg" alt="USA Today (2009) and The New-York Weekly Journal (1733)" data-copyright="&copy; 2010 AP Images; Public Domain"><br>&copy; 2010 AP Images; Public Domain<br>
+			<br>
+			<p>Take a look at this example of a colonial newspaper and compare it with a newspaper from today. Pay attention to the layout of the news.</p>
+		]]>
+	</page>	
+	<page correct="Great job! You have taken a close look at these images and found the differences. Now, can you find the similarities?" incorrect="Review these images and take a really close look. This is an important part of research that every journalist must learn. The more you examine information, the better you can understand it.">
+		<![CDATA[
+		
+		<div class="mc">
+				<p>What is different about newspapers from the 1700s? </p>
+				<label><input type="radio" name="choice" value="Colonial newspapers used more images and charts." >Colonial newspapers used more images and charts.</label>
+				<label><input type="radio" name="choice" value="Colonial newspapers provided less information." >Colonial newspapers provided less information.</label>
+				<label><input type="radio" name="choice" value="Colonial newspapers used no pictures or headlines." data-answer="true">Colonial newspapers used no pictures or headlines. </label>
+				
+				<button disabled="disabled">Submit</button>
+		</div>
+		
+		
+		]]>
+	</page>
+	
+	<page>
+		<![CDATA[
+			<img src="interactives/01_02_02/intmedia/newspapers_compared.jpg" alt="USA Today (2009) and The New-York Weekly Journal (1733)" data-copyright="&copy; 2010 AP Images; Public Domain"><br>&copy; 2010 AP Images; Public Domain<br>
+			<br>
+			<p>Take a look at this example of a colonial newspaper and compare it with a newspaper from today. Pay attention to the layout of the news.</p>
+		]]>
+	</page>	
+	
+	<page  correct="Well done! You have taken a close look at these images and found the similarities. This is a great skill to develop as you work on finding facts in the information you cover."  incorrect="Review these images and take a really close look. This is an important part of research that every journalist must learn. The more you examine information, the better you can understand it." >
+		<![CDATA[
+		<div class="mc">
+				<p>Is anything the same? </p>
+				<label><input type="radio" name="choice" value="Modern newspapers use the same font." >Modern newspapers use the same font.</label>
+				<label><input type="radio" name="choice" value="Modern newspapers have a title at the top." data-answer="true">Modern newspapers have a title at the top.</label>
+				<label><input type="radio" name="choice" value="Modern newspapers cover only war." >Modern newspapers cover only war.</label>
+				
+				<button disabled="disabled">Submit</button>
+		</div>
+		<br>
+		<p>Many things have changed in American journalism over the past 200-plus years, but some things have stayed the same.</p>
+		]]>
+	</page>
+	
+	<page>
+		<![CDATA[
+		<p>One other important difference to note is the way early American newspapers mixed editorial content with the news. Today's readers want to know whether they are reading biased or impartial stories, and they expect reporters to be up-front about the difference.</p>
+		<p>American newspapers not only looked different years ago; they were made differently. The supplies needed to create a small newspaper were quite expensive, and printers often produced only a few hundred copies per run.</p>
+		
+		
+		
+		]]>
+	</page>
+	
+	
+	
+	<page correct="Nice job! You have learned an important term for journalism." incorrect="You may want to re-read this section. Remember that the more times you review information, the better you will be able to recall it later.">
+		<![CDATA[
+			<div class="mc">
+				<p>What is editorial content? </p>
+				<label><input type="radio" name="choice" value="Content that is controversial" >Content that is controversial</label>
+				<label><input type="radio" name="choice" value="Content checked by an editor" >Content checked by an editor</label>
+				<label><input type="radio" name="choice" value="Content that includes opinion" data-answer="true">Content that includes opinion</label>
+				
+				<button disabled="disabled">Submit</button>
+			</div>
+		]]>
+	</page>
+	
+	<page>
+		<![CDATA[
+			<img src="interactives/01_02_02/intmedia/movable_type.jpg" alt="a set of metal type"><br>&copy; 2010 Willi Heidelbach, cc-by-sa<br><br>
+			<p>To print newspapers in the 1700s, publishers had to use a specific form of typesetting. This process required hand-placing individual pieces of inked metal with letters and numbers on them facing backward, as if they were a mirror image of the newspaper. This string of backward letters created the words that people would later read at home. Imagine how much longer it took early Americans to create just one newspaper—up to 16 hours for just four pages!</p>
+			
+		
+		]]>
+	</page>
+	
+	<page  correct="Very good! You have looked closely at the facts to find the correct information. This is what a journalist must do every day." incorrect="Give this another try. Remember that a journalist must be in the practice of looking carefully at all information to gather the facts correctly." >
+		<![CDATA[
+			<div class="mc">
+				<p>Why did it take early Americans up to 16 hours to create four newspaper pages?</p>
+				<label><input type="radio" name="choice" value="They did not have real paper to use." >They did not have real paper to use. </label>
+				<label><input type="radio" name="choice" value="They used a slow process called typesetting." data-answer="true">They used a slow process called typesetting. </label>
+				<label><input type="radio" name="choice" value="They were constantly under attack." >They were constantly under attack.</label>
+				
+				<button disabled="disabled">Submit</button>
+			</div>
+		]]>
+	</page>
+		
+	<page>
+		<![CDATA[
+		<h3>The End</h3>
+		<h4>You've reached the end of the book.<br /><br /><a href="#/page/1" class="beginning-btn">Would you like to go back to the beginning?</a></h4>
+		]]>
+	</page>
+	<backCover></backCover>
+</flipbook>

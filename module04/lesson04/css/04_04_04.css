@@ -1,0 +1,30 @@
+/* CSS Document */
+#space {background-image:url(../images/space_ts.png); background-repeat:no-repeat; max-width:720px; max-height: 480px; overflow-y:auto;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}
+#text {width:50%; margin-right:0px; background: rgba(0,0,0,.6); float:right; padding: 5px 20px; }
+#text p {color:#fff;}
+.popover {color:#333;}
+#text a.pop-over {color:#C90;}
+
+/* Let's get this party started */
+#space::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+/* Track */
+#space::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+ 
+/* Handle */
+#space::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(225,127,62,0.6);
+	height:30px; 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+#space::-webkit-scrollbar-thumb:window-inactive {
+	background: rgba(225,127,62,0.4); 
+}

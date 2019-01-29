@@ -1,0 +1,13 @@
+/* CSS Document */
+
+.carousel-caption {
+	position: absolute;
+	bottom: -96px;
+	padding-top: 20px;
+}
+
+#slideshowone .item{
+	
+	margin:0 auto;
+	margin-bottom:60px;
+}

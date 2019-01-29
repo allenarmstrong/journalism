@@ -1,0 +1,147 @@
+
+/*======================================
+
+CSS DOCUMENT FOR LOOK and FEEL
+
+======================================*/
+html {
+	
+	font-family: 'open_sansregular', sans-serif;
+}
+
+body {background:url(../images/home/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover; font-family: 'open_sansregular', sans-serif;}
+
+/*nav {position:fixed;}*/
+
+main {-webkit-box-shadow: 0px 0px 18px 10px rgba(0,0,0,0.25); -moz-box-shadow: 0px 0px 18px 10px rgba(0,0,0,0.25); box-shadow: 0px 0px 18px 10px rgba(0,0,0,0.25); width:1100px; padding:0px;}
+
+#breadcrumbs, #content, #footer_copyright {margin:0px;}
+
+/*.bgshadow {background-color:#fffbf6; width:1100px; padding:0px; -webkit-box-shadow: 0px 0px 18px 10px rgba(0,0,0,0.25); -moz-box-shadow: 0px 0px 18px 10px rgba(0,0,0,0.25); box-shadow: 0px 0px 18px 10px rgba(0,0,0,0.25);}
+
+*/
+
+/* Breadcrumbs */
+
+#breadcrumbs {border-radius: 0px; border:none; background-color:#e3d6c8; z-index:9900; padding:30px 20px; margin-bottom:0px;}
+
+/* End of Breadcrumbs */
+
+
+/* Content */
+#content {border:0px; border-radius: 0px !important; margin-top:0px; border-bottom:20px solid #7a7a7a; background:#fffdf9 url(../images/content_bg.png) top;}
+#pageContent {padding: 0px 40px;}
+div.activeInteractive, div.videoInteractive, div.audioInteractive, div.textVersion, div.video_textVersion, div.audio_textVersion, div.ilShell, div.mainVersion {border:none;}
+.pageLayout1 {max-width: 780px; width: 100%;}
+
+img.video_link {margin: 20px 0;}
+.mejs-container .mejs-controls {height: 37px; !important}
+
+/* Footer */
+#footer_inner { padding:0px; width:1100px; }
+#footer_copyright { margin: 10px 0px; background-color:transparent; border:0px; border-radius:none;}
+#footer_copyright img {padding-bottom:10px;}
+
+
+/*UI ELEMENTS */
+
+.btn-primary {background-image:none; color:#d6bfa4; background-color:#890b0b; border-color: #6b0000;}
+.btn-primary:hover, .btn-primary:focus { color:#a3927e; background-color: #5b0000; background-position: 0 -15px;border-color:#440000;}
+
+.panel-default > .panel-heading {background-image:url(../images/c2r.png); background-repeat:repeat-x; background-size:contain; color:#fff;}
+.tabs a.tab {background-image:url(../images/c2r.png); background-repeat:repeat-x; background-size:contain; color:#fff;}
+.tabs a.tab:hover, .tabs a.active { background-color:#890b0b; background-image:none; }
+
+.nav-pills {margin-bottom:15px !important;}
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {background-color:#890b0b;}
+
+.carousel-control.left, .carousel-control.right {color:#8b3a12;}
+.carousel-indicators li { background-image:url(../images/pagination.png);}
+
+/* Info box Wells */
+.well {padding:12px !important;}
+.well.objective, .well.assignment, .well.overview {background-image:url(../images/info_well.png); background-color:transparent; background-repeat:no-repeat; background-size: 100% 100%; border:none; border-color:transparent; box-shadow:none; min-height:170px; padding-bottom: 2.5% !important;}
+
+.icon_local {top:17px !important; left:10px !important;}
+.assignment .content, .overview .content, .objective .content {border: 5px solid #dc5b1c; margin-left:0px; padding-top:1%; padding-left: 100px; background-color:#f0ebe6; min-height:140px;}
+.infobox .content {min-height:70px; padding-left:35px;}
+.assignment .content h2, .overview .content h2, .objective .content h2, .infobox .content h2 {margin-top: 5px;}
+
+.infobox {margin-top:30px; background-color:#fde2c5; box-shadow:none; background-image:none; border-radius:0px; border: 2px solid #9c6428;}
+.infobox .icon_local {top:-20px !important; left:-30px !important;}
+/* sneak peek */
+.well-sm {margin-left:-81px; margin-top:20px; height:81px; background:url(../images/SneakPeek1.png) no-repeat top left;  border:none; border-color:transparent; border-radius:0px; box-shadow:none; overflow:visible; }
+.well-sm h3 {margin-left:75px; margin-top:5px; font-size: 24px; color:#fff;}
+.well-sm h3 a {font-family: 'open_sanssemibold', sans-serif; color:#fff;}
+
+/* Lesson Ribbon */
+.ribbon {color:#fff; font-size:28px; font-family: 'open_sanslight', sans-serif;}
+.ribbon:after, .ribbon:before {
+    margin-top:0.5em;
+    content: "";
+    float:left;
+    border:21px solid #8b3a12;
+}
+.ribbon:after {border-right-color:transparent;}
+.ribbon:before {border-left-color:transparent;}
+.ribbon p{
+    background:#8b3a12;
+    display:inline-block;
+    height:1.5em;
+    padding:0 ;
+    margin-top:0.5em;
+    position:relative;
+	float:left;
+}
+
+/* Assessment Swirl */
+.swirl {color: #8b3a12;font-size:22px; font-family: 'open_sanssemibold', sans-serif;}
+.swirl:after, .swirl:before {
+    margin-top:9px;
+    content: url(../images/swirl.png);
+    float:left;
+    p
+}
+.swirl:after {border-right-color:transparent;}
+.swirl:before {border-left-color:transparent;}
+.swirl p{
+    
+    display:inline-block;
+    
+    padding:0 12px;
+    margin-top:0.5em;
+    position:relative;
+	float:left;
+}
+
+
+/*==============================
+
+TYPOGRAPHY SECTION
+
+==============================*/
+
+h1 {color:#8b3a12; font-family: 'open_sanslight', sans-serif; font-size:28px; line-height: 31px;}
+h2 {color:#603913; font-family: 'open_sanssemibold', sans-serif; font-size:16px; font-weight:bold;}
+h3 {font-size:18px;}
+
+a {color:#890b0b;}
+a:focus {outline:none;}
+
+a.pop-over {color:#013567; font-weight:bold; }
+a.tip-top {text-decoration:underline !important;}
+li {line-height:1.5em;}
+.panel-body li {margin-bottom: 10px;}
+
+blockquote { font-size:15px;}
+blockquote .popover {font-size:13.5px;}
+
+strong {font-family: 'open_sansbold', sans-serif;}
+
+.breadcrumbs_lesson_number {font-weight: bold;}
+
+dt {font-family: 'open_sansbold', sans-serif;}

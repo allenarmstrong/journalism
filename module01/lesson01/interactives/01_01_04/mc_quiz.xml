@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+            
+<interactive>
+<settings>
+    <title></title>
+    <instructions>For this activity, you will complete a self-check on the history of journalism. You may want to review the lesson to make sure you understand the details.</instructions>
+    <css>    
+        <width>700</width>
+        <height>475</height>
+    </css>
+    <auto_answer></auto_answer>
+</settings>
+<question>
+    <type>mc</type>
+    <quiz>What does the Bill of Rights include?</quiz>
+    <answer>Protection for freedom of the press</answer>
+    <option>Signatures of our country's founders</option>
+    <option>Rules about what journalism can't do</option>
+</question>
+<question>
+    <type>mc</type>
+    <quiz>Which amendment protects the press?</quiz>
+    <answer>The first</answer>
+    <option>The second</option>
+    <option>The third</option>
+</question>
+<question>
+    <type>mc</type>
+    <quiz>What other businesses are specifically protected by the Constitution?</quiz>
+    <answer>None</answer>
+    <option>Lawyers</option>
+    <option>Doctors</option>
+</question>
+<question>
+    <type>mc</type>
+    <quiz>Who published &lt;em&gt;Poor Richard's Almanack&lt;/em&gt;?</quiz>
+    <answer>Benjamin Franklin</answer>
+    <option>Thomas Edison</option>
+    <option>George Washington</option>
+</question>
+</interactive>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+	<title>Technology Advancements</title>
+	<directionsTextVer>Select each card.</directionsTextVer>
+	<width>180</width>
+	<height>280</height>
+	<bgcolor>#bebebe</bgcolor>
+	<speed>350</speed>
+	<spinDirection>lr</spinDirection>
+	<customTextVer></customTextVer>
+  
+	<flipcard>
+	  <cardfront>
+	  	<title>The Rotary Press</title>
+		<text></text>
+		<img>
+		  <alt>Image of rotary press</alt>
+		  <description>Image of rotary press</description>
+		  <src>images/01_03b_01_printing-press.jpg</src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	 	<title>The Rotary Press</title>
+	    <text>The rotary press allowed newspapers to reach many more people and at a much lower cost.</text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+	<flipcard>
+	  <cardfront>
+	    <title>The Telegraph</title>
+		<text></text>
+	  		<img>
+		  <alt>Telegraph</alt>
+		  <description>Image of a telegraph</description>
+		  <src>images/01_03b_02_telegraph.jpg</src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	 	<title>The Telegraph</title>
+	    <text>The telegraph allowed news to spread quickly across the United States, and newspapers could pick up stories from miles away.</text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+	<flipcard>
+	  <cardfront>
+	    <title>The&#60;br&#62;Railroad</title>
+	    <text></text>
+		<img>
+		  <alt>railroad</alt>
+		  <description>Image of the railroad</description>
+		  <src>images/01_03b_03_railroad.jpg</src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	   	<title>The&#60;br&#62;Railroad</title>
+	    <text>The railroad allowed readers to get newspapers delivered from other cities and states. </text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+
+</settings>

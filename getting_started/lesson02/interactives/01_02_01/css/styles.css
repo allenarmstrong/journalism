@@ -1,0 +1,103 @@
+#custom_interactive{
+	background:url("../intmedia/00_02_01_navigation_bg.jpg") no-repeat;
+	width:630px;
+	height:418px;
+	position:relative;
+}
+
+@-webkit-keyframes blink { 
+   50% { border-color: #e0376e; } 
+}
+@keyframes blink { 
+   50% { border-color: #e0376e; } 
+}
+
+.dialog_trigger{
+	background: rgba(220,220,220,0.5);
+	border: 2px dashed transparent;
+	animation: blink .5s step-end infinite alternate;
+    -webkit-animation: blink .5s step-end infinite alternate;
+	cursor:pointer;
+}
+
+.dialog_trigger:hover{
+	background: rgba(220,220,220,0.3);
+	border:none;
+}
+
+
+
+#gs_menu, #gs_notes, #gs_glossary, #gs_printscreen, #gs_progress, #gs_homebtn {
+	display:inline-block;
+	height: 36px;
+    position:absolute;
+    top: 16px;
+}
+#gs_menu {
+    left: 16px;
+	width: 54px;
+}
+#gs_notes {
+	left: 96px;
+	width: 52px;
+}
+#gs_glossary {
+    left: 154px;
+    width: 74px;
+}
+#gs_printscreen {
+	left: 236px;
+	width: 46px;
+}
+
+#gs_progress {
+	left: 342px;
+	width: 66px;
+}
+#gs_homebtn {
+	left: 434px;
+	width: 180px;
+}
+#gs_bookmark {
+	display: none;
+}
+.custom_dialog{
+	display:none;
+	width: 400px;
+	height: 360px;
+	position: absolute;
+	top: 10px;
+	left: 110px;
+	z-index: 2;
+}
+
+.custom_dialog img{
+	border:solid 1px #cccfd8;
+	margin-bottom:5px;
+}
+
+
+#coverit {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background: #faf6ef;
+  opacity: 0.6;
+  display: none;
+  z-index: 1;
+}
+
+.closeit {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: block;
+  color: #000;
+  background: #e8e8e8;
+  padding: 2px 4px;
+  cursor: pointer;
+  z-index: 2;
+
+}

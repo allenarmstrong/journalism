@@ -1,0 +1,44 @@
+/* CSS Document */
+
+#clipboard {
+    border: 1px solid #ECECEC;
+    background: url('../images/02_05_02_paper_ts.png') #f7ebcb no-repeat;
+	background-size:cover;
+    box-shadow: 1px 2px 4px #8F8F8F;
+    margin: 40px auto 40px 0;
+    font-size:16px;
+}
+
+#clipboard h2 {
+   
+}
+
+#clipboard p {
+    background: url('../images/02_05_02_check2.png') no-repeat;	
+    padding-left: 35px;
+    min-height: 25px;
+    cursor: pointer;
+}
+
+#clipboard > img {
+	position: absolute;	
+	margin-left: -70px;
+	margin-top: -50px;
+	width: 190px;
+}
+
+#clipboard > div{
+    background: url('../images/02_05_02_blueline_ts.png');	
+    margin-top: 70px;
+    padding: 0 70px 20px 70px;
+    letter-spacing: 1px;
+    border-radius: 0 0 9px 9px;
+}
+
+#clipboard .selected {		
+    background: url('../images/02_05_02_check.png') no-repeat;	
+}
+
+#clipboard .cache {
+	display: none;
+}

@@ -1,0 +1,6 @@
+/* CSS Document */
+body {background:none !important;}
+
+#externalContent {background-color:#fff !important; border:none !important; width:100% !important; height:100%;}
+
+.mejs-container .mejs-controls {height: 37px; !important}

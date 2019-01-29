@@ -1,0 +1,10 @@
+/* CSS Document */
+.pull-left img, .pull-right img {padding:5px 10px;}
+.ilShell .copyright {text-align:center;}
+.jTimeline #head {
+background-color: #6b0000 !important;
+/* background-color: #000; */
+margin: 0 0 1em 0;
+overflow: hidden;
+overflow: hidden;
+}

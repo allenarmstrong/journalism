@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <title></title>
+  <directions>Match the news medium to the need it meets. </directions>
+  <directionsTextVer>Match the news medium to the need it meets.</directionsTextVer>
+  <innerDirections>Match the news medium to the need it meets.</innerDirections>
+  <completeTxt>Nice job! You have shown that you understand the important information about these different media. Now let's see how you do with more specific details. </completeTxt>
+  <failText>One or more of your answers is incorrect. Go back to review the information you learned in this section, and you will find that your understanding will get better!</failText>
+  <leftTitle>News Medium</leftTitle>
+  <rightTitle>Need it Meets</rightTitle>
+  <randomStuff>definition</randomStuff>
+  <matched>true</matched>
+  <wordCount>4</wordCount>
+  
+  <items>
+	<left>Photojournalism</left> 
+	<right>still images that tell a story</right> 
+  </items>
+  <items>
+	<left>Television news</left> 	
+	<right>video clips that explain up-to-date news</right> 	
+  </items>
+  <items>
+	<left>Print journalism</left> 	
+	<right>written stories that explain news in detail</right> 
+  </items>
+  <items>
+	<left>Radio news</left> 	
+	<right>audio segments that provide news updates</right>
+  </items>
+  
+  <items>
+	<left>Photojournalism</left> 
+	<right>can be controversial during wartime if it depicts disturbing images</right> 
+  </items>
+  <items>
+	<left>Television news</left> 	
+	<right>relies on people with professional appearances to explain video clips</right> 	
+  </items>
+  <items>
+	<left>Internet news</left> 	
+	<right>allows audiences to access news items wherever they go</right> 
+  </items>
+  <items>
+	<left>Radio news</left> 	
+	<right>provides vivid descriptions of events in clear voices</right>
+  </items>
+</settings>

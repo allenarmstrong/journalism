@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+	<settings>
+	<instructions>Test your basic skills with pronouns with this quick quiz.</instructions>
+    <title>Pronouns Quiz</title>
+		<css>
+			<width>600</width>
+			<height>300</height>
+		</css>
+	</settings>
+
+<question>
+    <title>Select the correct set of pronouns:</title>
+    <type>mc</type>
+    <quiz>(He/Him) and (she/her) are studying together for a test.</quiz>
+    <answer>He, she</answer>
+    <option>He, her</option>
+    <option>Him, she</option>
+    <option>Him, her</option>
+	<incorrect>Incorrect.Try again</incorrect>
+</question>
+
+<question>
+    <type>mc</type>
+    <title>Select the correct set of pronouns:</title>
+    <quiz>Would you like to come to the movies with Michael and (I/me)?</quiz>
+    <answer>me</answer>
+    <option>I</option>
+	<tries>1</tries>
+	<incorrect>Incorrect.</incorrect>
+</question>
+
+<question>
+    <type>mc</type>
+    <title>Select the correct set of pronouns:</title>
+    <quiz>(We/Us) students are destined to become great journalists!</quiz>
+    <answer>We</answer>
+    <option>Us</option>
+	<tries>1</tries>
+	<incorrect>Incorrect.</incorrect>
+</question>
+
+<question>
+    <type>mc</type>
+    <title>Select the correct set of pronouns:</title>
+    <quiz>(She/Her) and (I/me) like to go to local concerts.</quiz>
+    <answer>She, I</answer>
+    <option>Her, I</option>
+    <option>Her, me</option>
+    <option>She, me</option>
+	<incorrect>Incorrect.Try again</incorrect>
+	
+</question>
+
+<question>
+    <type>mc</type>
+    <title>Select the correct set of pronouns:</title>
+    <quiz>You and (he/him) will be free to go to the mall after finishing homework.</quiz>
+    <answer>he</answer>
+    <option>him</option>
+	<tries>1</tries>
+	<incorrect>Incorrect.</incorrect>
+</question>
+
+<question>
+    <type>mc</type>
+    <title>Select the correct set of pronouns:</title>
+    <quiz>(They/Them) threw a great party, and Alice and (I/me) had lots of fun.</quiz>
+    <answer>They, I</answer>
+    <option>They, me</option>
+    <option>Them, me</option>
+    <option>Them, I</option>
+	<incorrect>Incorrect.Try again</incorrect>
+</question>
+
+<question>
+    <type>mc</type>
+    <title>Select the correct set of pronouns:</title>
+    <quiz>The way (him/he) talks to Vanessa and (I/me) is usually pretty rude.</quiz>
+    <answer>he, me</answer>
+    <option>him, I</option>
+    <option>him, me</option>
+    <option>he, I</option>
+	<incorrect>Incorrect.Try again</incorrect>
+</question>
+
+<question>
+    <type>mc</type>
+    <title>Select the correct set of pronouns:</title>
+    <quiz>(I/me) want to go to the beach with (he/him).</quiz>
+    <answer>I, him</answer>
+    <option>I, me</option>
+	<option>me, he</option>
+	<option>me, him</option>
+	<incorrect>Incorrect.Try again</incorrect>
+</question>
+
+<question>
+    <type>mc</type>
+    <title>Select the correct set of pronouns:</title>
+    <quiz>(He/Him) taught American Sign Language to (I/me).</quiz>
+    <answer>He, me</answer>
+    <option>He, I</option>
+    <option>Him, I</option>
+    <option>Him, me</option>
+	<incorrect>Incorrect.Try again</incorrect>
+</question>
+
+<question>
+    <type>mc</type>
+    <title>Select the correct set of pronouns:</title>
+    <quiz>It’s unclear whether (he/him) and (she/her) are still friends with (we/us).</quiz>
+    <answer>he, she, us</answer>
+    <option>he, her, we</option>
+    <option>him, she, we</option>
+    <option>him, her, us</option>
+	<incorrect>Incorrect.Try again</incorrect>
+</question>
+
+</interactive>

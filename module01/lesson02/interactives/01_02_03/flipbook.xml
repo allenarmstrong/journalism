@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbook>
+	<directionsTextVer>Text version directions.</directionsTextVer>
+	
+	<cover>
+	  <title>Partisan Press Era and Objective Reporting</title>
+	  <author></author>
+	  <instructions>To open this flipbook, simply select the edge of right side of the book's cover. To advance pages, simply select the right, or left, side.</instructions>
+	  
+	</cover>
+	<page>
+		<![CDATA[
+			<p>Though newspapers gained freedom after the American Revolution, they remained in what is known as the partisan press era. The partisan press era was a time when newspapers mixed opinion with fact in their news stories as part of their normal reporting. No longer forced to please the politicians in power, reporters experienced new freedoms in their writing. The result was different from the colonial newspapers because publishers and reporters could support or oppose candidates as they wished in their news stories.</p>
+			<p>The partisan press era lasted from the late 1700s until around the start of the Civil War. </page>
+			
+				 
+		]]>
+	</page>
+	
+	<page correct="Great! By reading and learning facts, you are practicing how to become a good journalist." failed="Review the information you have just read. The more you check facts, the stronger journalist you can become!" incorrect="Review the information you have just read. The more you check facts, the stronger journalist you can become!">
+	
+		<![CDATA[
+			<div class="mc">
+				<p>What did newspapers do during the partisan press era?</p>
+				<label><input type="radio" name="choice" value="They openly expressed bias." data-answer="true">They openly expressed bias.</label>
+				<label><input type="radio" name="choice" value="They avoided expressing opinion.">They avoided expressing opinion.</label>
+				<label><input type="radio" name="choice" value="They went temporarily out of business.">They went temporarily out of business.</label>
+				
+				<button disabled="disabled">Submit</button>
+			</div>
+		]]>
+	</page>
+		
+	<page>
+		<![CDATA[
+			<p>As the young United States matured, the newspaper industry learned that the American people demanded "regular" news&mdash;not just partisan news, but information that would be useful to everyone. As a result, publishers began to move toward today's model of American journalism: objective reporting. Objective reporting separates fact from opinion. Using this method, impartial reporters provide the news in one section of the newspaper, and opinionated writers discuss their views in a different section. This model enabled publications to reach even larger audiences, as anyone interested in current events could read the paper without running into heavy bias.</p>
+			
+		]]>		
+	</page>
+		
+	<page correct="Nice job! You have read facts and then used that information to understand an important detail. This is the key to being a good journalist." incorrect="Check your facts. The closer you look at information, the stronger your skills at research will become!" failed="Check your facts. The closer you look at information, the stronger your skills at research will become!">
+		<![CDATA[
+			<div class="mc">
+				<p>What is the difference between partisan press and objective reporting?</p>
+				<label><input type="radio" name="choice" value="Partisan press took place in Europe, while objective reporting was American">Partisan press took place in Europe, while objective reporting was American. </label>
+				<label><input type="radio" name="choice" value="Objective reporting doesn't try to force an opinion on the reader." data-answer="true">Objective reporting doesn't try to force an opinion on the reader.</label>
+				<label><input type="radio" name="choice" value="Partisan reporting doesn't ever deal with factual information.">Partisan reporting doesn't ever deal with factual information.</label>
+				
+				<button disabled="disabled">Submit</button>
+			</div>
+		]]>
+	</page>
+	
+	<page>
+		<![CDATA[
+		<h3>The End</h3>
+		<h4>You've reached the end of the book.<br /><br /><a href="#/page/1" class="beginning-btn">Would you like to go back to the beginning?</a></h4>
+		]]>
+	</page>
+	<backCover></backCover>
+</flipbook>

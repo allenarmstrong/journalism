@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+	<settings>
+	<instructions>Select the correct subject/verb agreement.</instructions>
+    <title>Subject/Verb Quiz.</title>
+		<css>
+			<width>600</width>
+			<height>300</height>
+		</css>
+	</settings>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>Florida, Minnesota, and California (is/are) all places I have visited in the past year.</quiz>
+    <true>is</true>
+    <false>are</false>
+    <answer>false</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>Jamila (ran/run) to the store as quickly as she could.</quiz>
+    <true>ran</true>
+    <false>run</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>Sam, not Jamila, (likes/like) coffee in the morning.</quiz>
+    <true>likes</true>
+    <false>like</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>The reason I bought all of these toys (is/are) that I have several cousins with birthdays in the same month.</quiz>
+    <true>is</true>
+    <false>are</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>My dog’s many toys (is/are) lying around on the floor.</quiz>
+    <true>is</true>
+    <false>are</false>
+    <answer>false</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>Paige, after the two accidents, (was/were) nervous around cars.</quiz>
+    <true>was</true>
+    <false>were</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>Either he or she (is/are) going to win this competition.</quiz>
+    <true>is</true>
+    <false>are</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>Each of the people here tonight (is/are) a special guest.</quiz>
+    <true>is</true>
+    <false>are</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>The characters in my favorite book (is/are) much more interesting than those in other books I have read.</quiz>
+    <true>is</true>
+    <false>are</false>
+    <answer>false</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Select the correct subject/verb agreement.</subtitle>
+    <quiz>According to several studies, some people (like/likes) to hear music at work, while others do not.</quiz>
+    <true>likes</true>
+    <false>like</false>
+    <answer>false</answer>
+</question>
+
+</interactive>

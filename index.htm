@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Journalism 1</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<script>
+	var isindex = true; // Loads Index Page
+	var pg_jslibs = []; // JS Libs for this Page
+	var pg_csslibs = ['global/css/menu.css']; // CSS Libs
+	var custom = true; // Create Custom Index Page
+	var include_ui = false; 
+</script>
+<script src="global/js/settings.js" id="settingJS"></script>
+</head>
+
+<body>
+<div id="wrapper">
+
+    <!--             CUSTOM MENU, will not work if var custom = false, you will need delete this, or to comment this off
+    				 this is just here for a starting place for a customized index page, it is by no means a standard
+    				 feel free to customize it or create a new on -->
+    <nav>
+        <div id="menu_outer">
+            <div id="menu_inner">
+                <div class="menu_desktop">
+                  <a href="javascript:void(0);" class="menubtn">MENU</a>
+                </div>
+                <div class="menu_mobile">
+                  <a href="javascript:void(0);" class="menubtn_mobile"><img src="global/images/home/menu_btn.png" title="menu button" alt="menu button"/></a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div id="nav_menu">
+        <div class="menu_mobile_nav">
+            <div data-tag="menu_links" class="menu_links"></div>
+        </div>
+        
+    </div>
+    <!--*************CUSTOM MENU***************-->
+
+    <main>
+    
+    <!--*************CUSTOM layout, you will need to delete this is using default or create another****************-->
+        <div id="custom_index">
+            <div id="content">
+                <div id="title"></div>
+                <div id="getting_started"><a href="getting_started/lesson01/gs_01_01.htm"><img src="global/images/home/gs_badge.png" alt="Getting Started"></a></div>
+                <div id="collaboration"><a href="collaboration/lesson00/collab_checkllist.htm">Collaboration</a></div>
+                <div class="modules">
+                    <br class="clear"/>
+                </div>
+            </div>
+        </div>
+    <!--*************CUSTOM layout****************-->
+        
+    </main>     
+   
+    <footer>
+        <div id="footer_inner">
+            <div id="footer_copyright"></div>
+        </div>
+    </footer>    
+
+</div>
+</body>
+</html>

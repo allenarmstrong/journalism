@@ -1,0 +1,152 @@
+
+.int1 .under {
+	background-position-x: -7px;
+}
+.int1 .preload {
+	display: none;
+}
+.int1 .under h3 {
+	font-size: 13pt;
+}
+.int1 .image_holder, .int1 .under {
+	overflow: hidden;
+	width: 676px;
+	float: left;
+	margin-left: 7px;
+}
+.int1 .over, .int1 .under, .int1 .image_holder {
+	height: 420px;
+}
+.int1 a.ui-slider-handle.ui-state-default.ui-corner-all {
+	background-image: url(intmedia/arrow.png);
+	background-repeat: no-repeat;
+	background-color: #6c0000;
+	height: 424px;
+	cursor: col-resize !important;
+}
+.int1 a.ui-slider-handle.ui-state-default.ui-corner-all:hover {
+	background-color: #cb0000;
+}
+.int1 .over, .int1 .slider.ui-slider.ui-slider-horizontal.ui-widget.ui-widget-content.ui-corner-all {
+	width: 350px;
+}
+.int1 .under, .int1 .over {
+	position: absolute;
+}
+.int1 .over {
+	background-color: black;
+	overflow: hidden;
+}
+.int1 .over p {
+	width: 251px;
+	height: 339px;
+	margin-top: 117px;
+	margin-left: 64px;
+	font-size: 14pt;
+	color: #fff;
+	padding: 7px 10px;
+}
+.int1 .slider.ui-slider.ui-slider-horizontal.ui-widget.ui-widget-content.ui-corner-all {
+	border: 0;
+	height: 0;
+}
+.int1 .nextSlide, .int1 .prevSlide {
+	position: absolute;
+	height: 45px;
+	width: 15px;
+	background-color: #6c0000;
+	float: left;
+	margin-top: 360px;
+	cursor: pointer;
+}
+.int1 .nextSlide:hover, .int1 .prevSlide:hover {
+	background-color: #cb0000;
+}
+.int1 .nextSlide {
+	margin-left: 703px;
+}
+.int1 .sliderSlide {
+	margin-top: 20px;
+	background-color: blue;
+	margin-left: 10px;
+}
+.int1 .slideNum {
+	float: left;
+	border: 1px solid black;
+	margin-left: 17px;
+	padding: 10px;
+}
+.int1 #ih1 .over {
+	background-image: url(intmedia/1_1_1.jpg);
+}
+.int1 #ih1 .under {
+	background-image: url(intmedia/1_1_2.jpg);
+}
+.int1 #ih1 .under h3, .int1 #ih1 .under p {
+	margin-left: 40px;
+	width: 217px;
+	color: white;
+}
+.int1 #ih2 .over {
+	background-image: url(intmedia/1_2_1.jpg);
+}
+.int1 #ih2 .under {
+	background-image: url(intmedia/1_2_2.jpg);
+}
+.int1 #ih3 .over {
+	background-image: url(intmedia/1_3_1.jpg);
+}
+.int1 #ih3 .under {
+	background-image: url(intmedia/1_3_2.jpg);
+}
+.int1 #ih4 .over {
+	background-image: url(intmedia/1_4_1.jpg);
+}
+.int1 #ih4 .under {
+	background-image: url(intmedia/1_4_2.jpg);
+}
+.int1 #ih5 .over {
+	background-image: url(intmedia/1_5_1.jpg);
+}
+.int1 #ih5 .under {
+	background-image: url(intmedia/1_5_2.jpg);
+}
+.int1 #ih6 .over {
+	background-image: url(intmedia/1_6_1.jpg);
+}
+.int1 #ih6 .under {
+	background-image: url(intmedia/1_6_2.jpg);
+}
+.int1 #ih7 .over {
+	background-image: url(intmedia/1_7_1.jpg);
+}
+.int1 #ih7 .under {
+	background-image: url(intmedia/1_7_2.jpg);
+}
+.int1 #ih8 .over {
+	background-image: url(intmedia/1_8_1.jpg);
+}
+.int1 #ih8 .under {
+	background-image: url(intmedia/1_8_2.jpg);
+}
+.int1 #ih9 .over {
+	background-image: url(intmedia/1_9_1.jpg);
+}
+.int1 #ih9 .under {
+	background-image: url(intmedia/1_9_2.jpg);
+}
+.int1 .under h3, .int1 .under p {
+	margin-left: 40px;
+	width: 217px;
+}
+.jCustom.il_interactive {
+	height: 496px !important;
+	width: 720px !important;
+}
+.jCustom .glyphicon {
+	color: #fff;
+	padding-top: 15px;
+}
+.ui-slider .ui-slider-handle {
+	width: 1em !important;
+}

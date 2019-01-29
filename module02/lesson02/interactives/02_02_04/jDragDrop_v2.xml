@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+    <title>Pyramid Interactive</title>
+	<directions>Drag the most important detail of the lead to the top of the pyramid and place the next-important details below that. Select Go! to get started.</directions>
+	<directionsTextVer>YOU CAN put anything in here.</directionsTextVer>
+	<defaultCorrect>Great job! You dropped all the details into the correct order.</defaultCorrect>
+	<defaultIncorrect>Try again! Ask yourself what effects the public the most."</defaultIncorrect>
+	<defaultFail>There are different ways of thinking to answer the question better the next time."</defaultFail>
+	<drop>no</drop>
+	<chances>3</chances>
+	<customTextVer>scripts/textVersion.js</customTextVer>
+
+	<prebin><![CDATA[  <p>Now you need to consider what the most important part of this lead is.</p>  ]]></prebin>
+	<bin>
+	  <title>Most-important</title>
+	  <text>this is most important part</text>
+	  <binID>A</binID>
+	  <width>250</width>
+	  <item>
+	    <correct>You did it, apples rock</correct>
+		<incorrect>Apple, maybe it is a fruit?</incorrect>
+		<itemText>Apple</itemText>
+      </item>
+	  <item>
+		<itemText>Free classes for the public</itemText>
+      </item>
+	  	</bin>
+	<bin>
+	  <title>Next-important</title>
+	  <text>this is next important part</text>
+	  <binID>B</binID>
+	  <height>110</height>
+	  <width>250</width>
+	  <item>
+		<itemText>Community center on main street</itemText>
+      </item>
+	</bin>
+	<bin>
+	  <title>Least-important</title>
+	  <text>this is the least important part</text>
+	  <binID>C</binID>
+	  <height>110</height>
+	  <width>250</width>
+	  <item>
+		<itemText>This morning</itemText>
+      </item>
+	</bin>
+	<postbin><![CDATA[  <p>I can add text below...</p>  ]]></postbin>
+</settings>

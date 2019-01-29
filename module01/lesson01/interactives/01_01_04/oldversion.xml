@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<directions>
+<![CDATA[
+For this assessment, you will complete a self-check on the history of journalism. You may want to review the lesson to make sure you understand the details.<br /><br />Select Go! to get started.]]>
+</directions>
+<endfeedback>
+<![CDATA[ Correct! ]]>
+</endfeedback>
+<question string="What does the Bill of Rights include?">
+<correct>
+<![CDATA[ ]]>
+</correct>
+<incorrect>
+<![CDATA[ ]]>
+</incorrect>
+<choice string="Signatures of our country's founders" correct="false"/>
+<choice string="Protection for freedom of the press" correct="true"/>
+<choice string="Rules about what journalism can't do" correct="false"/>
+</question>
+<question string="Which amendment protects the press?">
+<correct>
+<![CDATA[ ]]>
+</correct>
+<incorrect>
+<![CDATA[ ]]>
+</incorrect>
+<choice string="The first" correct="true"/>
+<choice string="The second" correct="false"/>
+<choice string="The third" correct="false"/>
+</question>
+<question string="What other businesses are specifically protected by the Constitution?">
+<correct>
+<![CDATA[ ]]>
+</correct>
+<incorrect>
+<![CDATA[ ]]>
+</incorrect>
+<choice string="Doctors" correct="false"/>
+<choice string="Lawyers" correct="false"/>
+<choice string="None" correct="true"/>
+</question>
+<question string="Who published <em>Poor Richard's Almanack</em>?">
+<correct>
+<![CDATA[ ]]>
+</correct>
+<incorrect>
+<![CDATA[ ]]>
+</incorrect>
+<choice string="Thomas Edison" correct="false"/>
+<choice string="Benjamin Franklin" correct="true"/>
+<choice string="George Washington" correct="false"/>
+</question>
+<question string="Which branch of government owns the press?">
+<correct>
+<![CDATA[ ]]>
+</correct>
+<incorrect>
+<![CDATA[ ]]>
+</incorrect>
+<choice string="Executive" correct="false"/>
+<choice string="Judicial" correct="false"/>
+<choice string="None" correct="true"/>
+</question>
+</quiz>

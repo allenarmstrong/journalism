@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+    <title>Connotations</title>
+	<directions>Drag and drop each connotation in the correct category. Select Begin to get started.</directions>	
+	<directionsTextVer>Which of the folowing list of items are positive connotations, which are negative connotations, and which are neutral connotations?</directionsTextVer>
+	<defaultFinished>Good job! Now let’s examine why these sentences may have a positve or a negative connotation. Select the Next button to work on the second activity.</defaultFinished>
+	<draggables>Hunting requires knowledge of the appropriate tools needed to kill and field dress animals while you are out in the woods.</draggables>
+	<droppables>Hunting is essentially the murderous act of stomping into an animal’s home uninvited and destroying whatever you see with man-made acts of violence.</droppables>
+	<droppables>Hunting is an excellent way to bond with your friends and family in a calm, natural environment of beauty where you can appreciate majestic animals in their natural habitats.</droppables>
+	<customTextVer>scripts/textVersion.js</customTextVer>-->
+
+
+	<prebin><![CDATA[  <p>Drag and drop each connotation in the correct category.</p>  ]]></prebin>
+
+	<bin>
+	  <title>Positive Connotations</title>
+	  <text>this is a positive conotation</text>
+	  <binID>A</binID>
+	  <item>
+	    <correct>Great job!</correct>
+		<incorrect>Try again!</incorrect>
+		<itemText>Hunting is an excellent way to bond with your friends and family in a calm, natural environment of beauty where you can appreciate majestic animals in their natural habitats.</itemText>
+      </item>
+	</bin>
+	
+	<bin>
+	  <title>Negative Connotations</title>
+	  <text>this is a negative conotation</text>
+	  <binID>B</binID>
+	  <item>
+	    <correct>Great job!</correct>
+		<incorrect>Try again!</incorrect>
+		<itemText>Hunting is essentially the murderous act of stomping into an animal’s home uninvited and destroying whatever you see with man-made acts of violence.</itemText>
+      </item>
+	</bin>
+	
+	<bin>
+	  <title>Neutral Connotations</title>
+	  <text>this is a neutral conotation</text>
+	  <binID>C</binID>
+	  <item>
+	    <correct>Great job!</correct>
+		<incorrect>Try again!</incorrect>
+		<itemText>Hunting requires knowledge of the appropriate tools needed to kill and field dress animals while you are out in the woods.</itemText>
+      </item>
+	</bin>
+		<postbin><![CDATA[  <p></p>  ]]></postbin>
+
+</settings>

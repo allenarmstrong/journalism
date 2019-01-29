@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+	<settings>
+	<instructions>Take a look at the following sentences and determine if they are opinion or fact.</instructions>
+    <title>Opinion or Fact?</title>
+		<css>
+			<width>600</width>
+			<height>300</height>
+		</css>
+	</settings>
+
+<question>
+    <type>tf</type>
+	<subtitle>Determine if the sentence is opinion or fact.</subtitle>
+    <quiz>Country music fans will be disappointed by this latest album release.</quiz>
+    <true>Opinion</true>
+    <false>Fact</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Determine if the sentence is opinion or fact.</subtitle>
+    <quiz>Modern rap music is losing its charm, says hip-hop producer Pen Tameter.</quiz>
+    <true>Opinion</true>
+    <false>Fact</false>
+    <answer>false</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Determine if the sentence is opinion or fact.</subtitle>
+    <quiz>It's hot, muggy, and too uncomfortable for most people to go outside today.</quiz>
+    <true>Opinion</true>
+    <false>Fact</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Determine if the sentence is opinion or fact.</subtitle>
+    <quiz>Today, people have cried out for vengeance in the wake of the despicable terrorist attack.</quiz>
+    <true>Opinion</true>
+    <false>Fact</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Determine if the sentence is opinion or fact.</subtitle>
+    <quiz>There is a heat wave coming in that will give us some record highs this weekend.</quiz>
+    <true>Opinion</true>
+    <false>Fact</false>
+    <answer>false</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Determine if the sentence is opinion or fact.</subtitle>
+    <quiz>The leading terrorist group in the area has claimed responsibility for the most recent attack.</quiz>
+    <true>Opinion</true>
+    <false>Fact</false>
+    <answer>false</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Determine if the sentence is opinion or fact.</subtitle>
+    <quiz>Sprocket of the Fighting Maltipoos threw the game-saving touchdown that sent the disgraced Jackapoos packing for home.</quiz>
+    <true>Opinion</true>
+    <false>Fact</false>
+    <answer>true</answer>
+</question>
+
+<question>
+    <type>tf</type>
+	<subtitle>Determine if the sentence is opinion or fact.</subtitle>
+    <quiz>The Maltipoos beat the Jackapoos in the fourth quarter with a touchdown in the final three seconds.</quiz>
+    <true>Opinion</true>
+    <false>Fact</false>
+    <answer>false</answer>
+</question>
+
+</interactive>

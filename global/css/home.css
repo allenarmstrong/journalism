@@ -1,0 +1,38 @@
+/*======================================
+CSS DOCUMENT FOR HOME PAGE
+======================================*/
+body {background-image:url(../images/home/bg.jpg); background-size:contain;font-family: 'open_sansregular', sans-serif;}
+main {width:1301px; height:909px; background-image:url(../images/home/main_bg.png); background-repeat:no-repeat; }
+#course_title {display:none;}
+#content {text-align:left;margin-left:80px; margin-top:80px; }
+#getting_started {float:left; }
+.modules {padding-top: 30px; padding-left: 160px;}
+
+.moduleLink {padding: 10px 20px; background-color:#460505; border-radius: 34px; -moz-border-radius: 34px; -webkit-border-radius: 34px; border: none; color:#f6edde; font-size:18px; width:170px; text-align:center;}
+ a:hover {color:#dc5b1c;}
+#collaboration {float:right; color:#fff; text-transform:uppercase; margin-right:80px; margin-top:62px;}
+#collaboration a, #collaboration a:visited {color:#FFF;}
+
+.developers {
+width: 80px;
+margin: 0 auto;
+margin-top: 600px;
+}
+.developers span {white-space:nowrap;}
+
+#footer_copyright {background-color:transparent; border:none;}
+
+
+
+@media (max-width: 1299px) and (min-width: 992px) {
+main {width:900px; background-size:contain; height:auto;}
+#content {text-align:left;margin-left:40px; margin-top:40px; }
+.modules {padding-top: 22px;padding-left: 155px;}
+.moduleLink {padding: 5px 5px; background-color:transparent; border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px; border: none; color:#f6edde; font-size:16px; width:120px; margin-right:0px;}
+#collaboration {float:right; color:#fff; text-transform:uppercase; margin-right:42px; margin-top:50px; font-size:.8em;}
+.developers {
+width: 80px;
+margin: 0 auto;
+margin-top: 500px;
+}
+}

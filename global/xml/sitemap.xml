@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemap>
+  
+  <!-- Main Course content -->
+  <module title="Getting Started" visible="true" indexpage="false" icon="" bg="">
+    <lesson title="Lesson One" num="01.00" time="45" points="1">
+      <page href="../../getting_started/lesson01/gs_01_01.htm" title="01.01 Page 01"/>
+      <page href="../../getting_started/lesson01/gs_01_02.htm" title="01.01 Page 02"/>
+    </lesson>
+    <lesson title="Lesson Two" num="02.00" time="45" points="1">
+      <page href="../../getting_started/lesson02/gs_02_01.htm" title="01.02 Page 01"/>
+    </lesson>
+    <lesson title="Lesson Three" num="3.00" time="45" points="1">
+      <page href="../../getting_started/lesson03/gs_03_01.htm" title="01.03 Page 01"/>
+      <page href="../../getting_started/lesson03/gs_03_02.htm" title="01.03 Page 02"/>
+    </lesson>
+    <lesson title="Lesson Four" num="04.00" time="45" points="1">
+      <page href="../../getting_started/lesson04/gs_04_01.htm" title="01.04 Page 01"/>
+      <page href="../../getting_started/lesson04/gs_04_03.htm" title="01.04 Page 02"/>
+      <page href="../../getting_started/lesson04/gs_04_04.htm" title="01.04 Page 03"/>
+    </lesson>
+    <lesson title="Lesson Five" num="05.00" time="45" points="1">
+      <page href="../../getting_started/lesson05/gs_05_01.htm" title="01.05 Page 01"/>
+      <page href="../../getting_started/lesson05/gs_05_02.htm" title="01.05 Page 02"/>
+	  <page href="../../getting_started/lesson05/gs_05_03.htm" title="01.05 Page 03"/>
+    </lesson>
+    <lesson title="Lesson Six" num="06.00" time="45" points="1">
+      <page href="../../getting_started/lesson06/gs_06_01.htm" title="01.06 Page 01"/>
+    </lesson>
+    <lesson title="Lesson Seven" num="07.00" time="45" points="1">
+      <page href="../../getting_started/lesson07/gs_07_01.htm" title="01.07 Page 01"/>
+      <page href="../../getting_started/lesson07/gs_07_02.htm" title="01.07 Page 02"/>
+      <page href="../../getting_started/lesson07/gs_07_03.htm" title="01.07 Page 03"/>
+      <page href="../../getting_started/lesson07/gs_07_04.htm" title="01.07 Page 04"/>
+    </lesson>
+  </module>
+  <module title="Module One" visible="true" indexpage="true" icon="" bg="">
+    <lesson title="Introduction to Journalism" num="01.00" time="45" points="1">
+      <page href="../../module01/lesson00/01_00_01.htm" title="01.00 Page 01"/>
+      <page href="../../module01/lesson00/01_00_02.htm" title="01.00 Page 02"/>
+      <page href="../../module01/lesson00/01_00_03.htm" title="01.00 Page 03"/>
+    </lesson>
+    <lesson title="The First Amendment" num="01.01" time="45" points="25">
+      <page href="../../module01/lesson01/01_01_01.htm" title="01.01 Page 01"/>
+      <page href="../../module01/lesson01/01_01_02.htm" title="01.01 Page 02"/>
+      <page href="../../module01/lesson01/01_01_03.htm" title="01.01 Page 03"/>
+      <page href="../../module01/lesson01/01_01_04.htm" title="01.01 Page 04"/>
+      <page href="../../module01/lesson01/01_01_05.htm" title="01.01 Page 05"/>
+    </lesson>
+    <lesson title="The History of American Journalism" num="01.02" time="45" points="25">
+      <page href="../../module01/lesson02/01_02_01.htm" title="01.02 Page 01"/>
+      <page href="../../module01/lesson02/01_02_02.htm" title="01.02 Page 02"/>
+      <page href="../../module01/lesson02/01_02_03.htm" title="01.02 Page 03"/>
+      <page href="../../module01/lesson02/01_02_04.htm" title="01.02 Page 04"/>
+    </lesson>
+    <lesson title="Journalism Today" num="01.03" time="60" points="25">
+      <page href="../../module01/lesson03/01_03_01.htm" title="01.03 Page 01"/>
+      <page href="../../module01/lesson03/01_03_02.htm" title="01.03 Page 02"/>
+      <page href="../../module01/lesson03/01_03_03.htm" title="01.03 Page 03"/>
+      <page href="../../module01/lesson03/01_03_04.htm" title="01.03 Page 04"/>
+      <page href="../../module01/lesson03/01_03_05.htm" title="01.03 Page 05"/>
+    </lesson>
+    <lesson title="Who Are Journalists" num="01.04" time="60" points="25">
+      <page href="../../module01/lesson04/01_04_01.htm" title="01.04 Page 01"/>
+      <page href="../../module01/lesson04/01_04_02.htm" title="01.04 Page 02"/>
+      <page href="../../module01/lesson04/01_04_03.htm" title="01.04 Page 03"/>
+      <page href="../../module01/lesson04/01_04_04.htm" title="01.04 Page 04"/>
+    </lesson>
+    <lesson title="Module One Discussion&#8211;Based Assessment" num="01.05" time="30" points="50">
+      <page href="../../module01/lesson05/01_05_01.htm" title="01.05 Page 01"/>
+    </lesson>
+    <lesson title="Module One Exam" num="01.06" time="30" points="48">
+      <page href="../../module01/lesson06/01_06_01.htm" title="01.06 Page 01"/>
+    </lesson>
+  </module>
+  <module title="Module Two" visible="true" indexpage="true" icon="" bg="">
+    <lesson title="Careers in Journalism" num="02.00" time="45" points="1">
+      <page href="../../module02/lesson00/02_00_01.htm" title="02.00 Page 01"/>
+      <page href="../../module02/lesson00/02_00_02.htm" title="02.00 Page 02"/>
+      <page href="../../module02/lesson00/02_00_03.htm" title="02.00 Page 03"/>
+    </lesson>
+    <lesson title="Career Research" num="02.01" time="90" points="25">
+      <page href="../../module02/lesson01/02_01_01.htm" title="02.01 Page 01"/>
+      <page href="../../module02/lesson01/02_01_02.htm" title="02.01 Page 02"/>
+      <page href="../../module02/lesson01/02_01_03.htm" title="02.01 Page 03"/>
+      <page href="../../module02/lesson01/02_01_04.htm" title="02.01 Page 04"/>
+      <page href="../../module02/lesson01/02_01_05.htm" title="02.01 Page 05"/>
+      <page href="../../module02/lesson01/02_01_06.htm" title="02.01 Page 06"/>
+    </lesson>
+    <lesson title="Writing a Lead" num="02.02" time="90" points="25">
+      <page href="../../module02/lesson02/02_02_01.htm" title="02.02 Page 01"/>
+      <page href="../../module02/lesson02/02_02_02.htm" title="02.02 Page 02"/>
+      <page href="../../module02/lesson02/02_02_03.htm" title="02.02 Page 03"/>
+      <page href="../../module02/lesson02/02_02_04.htm" title="02.02 Page 04"/>
+      <page href="../../module02/lesson02/02_02_05.htm" title="02.02 Page 05"/>
+    </lesson>
+    <lesson title="Elements of Good Writing" num="02.03" time="60" points="20">
+      <page href="../../module02/lesson03/02_03_01.htm" title="02.03 Page 01"/>
+      <page href="../../module02/lesson03/02_03_02.htm" title="02.03 Page 02"/>
+      <page href="../../module02/lesson03/02_03_03.htm" title="02.03 Page 03"/>
+      <page href="../../module02/lesson03/02_03_04.htm" title="02.03 Page 04"/>
+      <page href="../../module02/lesson03/02_03_05.htm" title="02.03 Page 05"/>
+    </lesson>
+    <lesson title="First Draft" num="02.04" time="105" points="50">
+      <page href="../../module02/lesson04/02_04_01.htm" title="02.04 Page 01"/>
+      <page href="../../module02/lesson04/02_04_02.htm" title="02.04 Page 02"/>
+      <page href="../../module02/lesson04/02_04_03.htm" title="02.04 Page 03"/>
+      <page href="../../module02/lesson04/02_04_04.htm" title="02.04 Page 04"/>
+      <page href="../../module02/lesson04/02_04_05.htm" title="02.04 Page 05"/>
+      <page href="../../module02/lesson04/02_04_06.htm" title="02.04 Page 06"/>
+      <page href="../../module02/lesson04/02_04_07.htm" title="02.04 Page 07"/>
+    </lesson>
+    <lesson title="Editing and Revising" num="02.05" time="105" points="50">
+      <page href="../../module02/lesson05/02_05_01.htm" title="02.05 Page 01"/>
+      <page href="../../module02/lesson05/02_05_02.htm" title="02.05 Page 02"/>
+      <page href="../../module02/lesson05/02_05_03.htm" title="02.05 Page 03"/>
+      <page href="../../module02/lesson05/02_05_04.htm" title="02.05 Page 04"/>
+    </lesson>
+    <lesson title="Module Two Discussion&#8211;Based Assessment" num="02.06" time="30" points="50">
+      <page href="../../module02/lesson06/02_06_01.htm" title="02.06 Page 01"/>
+    </lesson>
+    <lesson title="Module Two Exam" num="02.07" time="30" points="48">
+      <page href="../../module02/lesson07/02_07_01.htm" title="02.07 Page 01"/>
+    </lesson>
+    <lesson title="Segment One Exam" num="02.08" time="45" points="129">
+      <page href="../../module02/lesson08/02_08_01.htm" title="02.08 Page 01"/>
+    </lesson>
+  </module>
+  <module title="Module Three" visible="true" indexpage="true" icon="" bg="">
+    <lesson title="Narrative Journalism" num="03.00" time="45" points="1">
+      <page href="../../module03/lesson00/03_00_01.htm" title="03.00 Page 01"/>
+      <page href="../../module03/lesson00/03_00_02.htm" title="03.00 Page 02"/>
+      <page href="../../module03/lesson00/03_00_03.htm" title="03.00 Page 03"/>
+    </lesson>
+    <lesson title="Choose Your Story" num="03.01" time="90" points="50">
+      <page href="../../module03/lesson01/03_01_01.htm" title="03.01 Page 01"/>
+      <page href="../../module03/lesson01/03_01_02.htm" title="03.01 Page 02"/>
+      <page href="../../module03/lesson01/03_01_03.htm" title="03.01 Page 03"/>
+      <page href="../../module03/lesson01/03_01_04.htm" title="03.01 Page 04"/>
+      <page href="../../module03/lesson01/03_01_05.htm" title="03.01 Page 05"/>
+      <page href="../../module03/lesson01/03_01_06.htm" title="03.01 Page 06"/>
+    </lesson>
+    <lesson title="The Story Unfolds" num="03.02" time="90" points="50">
+      <page href="../../module03/lesson02/03_02_01.htm" title="03.02 Page 01"/>
+      <page href="../../module03/lesson02/03_02_02.htm" title="03.02 Page 02"/>
+      <page href="../../module03/lesson02/03_02_03.htm" title="03.02 Page 03"/>
+      <page href="../../module03/lesson02/03_02_04.htm" title="03.02 Page 04"/>
+      <page href="../../module03/lesson02/03_02_05.htm" title="03.02 Page 05"/>
+    </lesson>
+    <lesson title="Detail Your Story" num="03.03" time="60" points="20">
+      <page href="../../module03/lesson03/03_03_01.htm" title="03.03 Page 01"/>
+      <page href="../../module03/lesson03/03_03_02.htm" title="03.03 Page 02"/>
+      <page href="../../module03/lesson03/03_03_03.htm" title="03.03 Page 03"/>
+      <page href="../../module03/lesson03/03_03_04.htm" title="03.03 Page 04"/>
+    </lesson>
+    <lesson title="Conclude Your Story" num="03.04" time="105" points="25">
+      <page href="../../module03/lesson04/03_04_01.htm" title="03.04 Page 01"/>
+      <page href="../../module03/lesson04/03_04_02.htm" title="03.04 Page 02"/>
+      <page href="../../module03/lesson04/03_04_03.htm" title="03.04 Page 03"/>
+      <page href="../../module03/lesson04/03_04_04.htm" title="03.04 Page 04"/>
+    </lesson>
+    <lesson title="Revise Your Story" num="03.05" time="105" points="50">
+      <page href="../../module03/lesson05/03_05_01.htm" title="03.05 Page 01"/>
+      <page href="../../module03/lesson05/03_05_02.htm" title="03.05 Page 02"/>
+      <page href="../../module03/lesson05/03_05_03.htm" title="03.05 Page 03"/>
+      <page href="../../module03/lesson05/03_05_04.htm" title="03.05 Page 04"/>
+    </lesson>
+    <lesson title="Present Your Story" num="03.06" time="105" points="100">
+      <page href="../../module03/lesson06/03_06_01.htm" title="03.06 Page 01"/>
+      <page href="../../module03/lesson06/03_06_02.htm" title="03.06 Page 02"/>
+      <page href="../../module03/lesson06/03_06_03.htm" title="03.06 Page 03"/>
+      <page href="../../module03/lesson06/03_06_04.htm" title="03.06 Page 04"/>
+      <page href="../../module03/lesson06/03_06_05.htm" title="03.06 Page 05"/>
+    </lesson>
+    <lesson title="Module Three Discussion&#8211;Based Assessment" num="03.07" time="30" points="50">
+      <page href="../../module03/lesson07/03_07_01.htm" title="03.07 Page 01"/>
+    </lesson>
+    <lesson title="Module Three Exam" num="03.08" time="30" points="30">
+      <page href="../../module03/lesson08/03_08_01.htm" title="03.08 Page 01"/>
+    </lesson>
+  </module>
+  <module title="Module Four" visible="true" indexpage="true" icon="" bg="">
+    <lesson title="Introduction to Argument Writing" num="04.00" time="45" points="1">
+      <page href="../../module04/lesson00/04_00_01.htm" title="04.00 Page 01"/>
+      <page href="../../module04/lesson00/04_00_02.htm" title="04.00 Page 02"/>
+      <page href="../../module04/lesson00/04_00_03.htm" title="04.00 Page 03"/>
+    </lesson>
+    <lesson title="Rhetoric in Journalism" num="04.01" time="60" points="20">
+      <page href="../../module04/lesson01/04_01_01.htm" title="04.01 Page 01"/>
+      <page href="../../module04/lesson01/04_01_02.htm" title="04.01 Page 02"/>
+      <page href="../../module04/lesson01/04_01_03.htm" title="04.01 Page 03"/>
+      <page href="../../module04/lesson01/04_01_04.htm" title="04.01 Page 04"/>
+      <page href="../../module04/lesson01/04_01_05.htm" title="04.01 Page 05"/>
+      <page href="../../module04/lesson01/04_01_06.htm" title="04.01 Page 06"/>
+    </lesson>
+    <lesson title="Claim, Counterclaim, and Rebuttal" num="04.02" time="90" points="25">
+      <page href="../../module04/lesson02/04_02_01.htm" title="04.02 Page 01"/>
+      <page href="../../module04/lesson02/04_02_02.htm" title="04.02 Page 02"/>
+      <page href="../../module04/lesson02/04_02_03.htm" title="04.02 Page 03"/>
+      <page href="../../module04/lesson02/04_02_04.htm" title="04.02 Page 04"/>
+    </lesson>
+    <lesson title="Evaluate a Speaker" num="04.03" time="105" points="25">
+      <page href="../../module04/lesson03/04_03_01.htm" title="04.03 Page 01"/>
+      <page href="../../module04/lesson03/04_03_02.htm" title="04.03 Page 02"/>
+      <page href="../../module04/lesson03/04_03_03.htm" title="04.03 Page 03"/>
+      <page href="../../module04/lesson03/04_03_04.htm" title="04.03 Page 04"/>
+    </lesson>
+    <lesson title="Collecting Evidence" num="04.04" time="90" points="25">
+      <page href="../../module04/lesson04/04_04_01.htm" title="04.04 Page 01"/>
+      <page href="../../module04/lesson04/04_04_02.htm" title="04.04 Page 02"/>
+      <page href="../../module04/lesson04/04_04_03.htm" title="04.04 Page 03"/>
+      <page href="../../module04/lesson04/04_04_04.htm" title="04.04 Page 04"/>
+      <page href="../../module04/lesson04/04_04_05.htm" title="04.04 Page 05"/>
+    </lesson>
+    <lesson title="Write Your Argument" num="04.05" time="90" points="25">
+      <page href="../../module04/lesson05/04_05_01.htm" title="04.05 Page 01"/>
+      <page href="../../module04/lesson05/04_05_02.htm" title="04.05 Page 02"/>
+      <page href="../../module04/lesson05/04_05_03.htm" title="04.05 Page 03"/>
+      <page href="../../module04/lesson05/04_05_04.htm" title="04.05 Page 04"/>
+    </lesson>
+    <lesson title="Revise Your Argument" num="04.06" time="90" points="100">
+      <page href="../../module04/lesson06/04_06_01.htm" title="04.06 Page 01"/>
+      <page href="../../module04/lesson06/04_06_02.htm" title="04.06 Page 02"/>
+      <page href="../../module04/lesson06/04_06_03.htm" title="04.06 Page 03"/>
+    </lesson>
+    <lesson title="Module Four Discussion-Based Assessment" num="04.07" time="30" points="50">
+      <page href="../../module04/lesson07/04_07_01.htm" title="04.07 Page 01"/>
+    </lesson>
+    <lesson title="Module Four Exam" num="04.08" time="30" points="30">
+      <page href="../../module04/lesson08/04_08_01.htm" title="04.08 Page 01"/>
+    </lesson>
+    <lesson title="Segment Two Exam" num="04.09" time="45" points="169">
+      <page href="../../module04/lesson09/04_09_01.htm" title="04.09 Page 01"/>
+    </lesson>
+  </module>
+  <module title="Collaboration" visible="true" indexpage="false" icon="" bg="">
+    <lesson title="Collaboration" num="00.00" time="60" points="50">
+      <page href="../../collaboration/lesson00/collab_checkllist.htm" title="Page 01"/>
+      <page href="../../collaboration/lesson00/collab_00.htm" title="Page 02"/>
+      <page href="../../collaboration/lesson00/collab_01.htm" title="Page 03"/>
+      <page href="../../collaboration/lesson00/collab_02.htm" title="Page 04"/>
+    </lesson>
+  </module>
+</sitemap>

@@ -1,0 +1,49 @@
+/* CSS Document */
+/* newspaper article section */
+.paperlook { background-image:url(../images/newspaper-background_ts.jpg); background-size:cover; padding:20px; font-size:13.5px; font-family:'latin_modern_roman10_regular', Georgia, serif; font-weight:bold; line-height:1.2em; letter-spacing: .5px;}
+.mainVersion {margin-bottom:20px;}
+
+/* CLipboard */
+#clipboard {
+    border: 1px solid #ECECEC;
+    background: url('../images/paper_ts.png') #f7ebcb no-repeat;
+	background-size:cover;
+    box-shadow: 1px 2px 4px #8F8F8F;
+    margin: 20px auto 20px 0;
+    font-size:16px;
+}
+
+#clipboard h2 {
+   
+}
+
+#clipboard p {
+    
+    padding-left: 35px;
+    min-height: 25px;
+    cursor: pointer;
+}
+
+#clipboard > img {
+	position: absolute;	
+	margin-left: -70px;
+	margin-top: -50px;
+	width: 190px;
+}
+
+#clipboard > div{
+    background: url('../images/blueline_ts.png');	
+    margin-top: 70px;
+    padding: 0 70px 20px 70px;
+    letter-spacing: 1px;
+    border-radius: 0 0 9px 9px;
+}
+
+#clipboard .selected {		
+    
+}
+
+#clipboard .cache {
+	display: none;
+}
+

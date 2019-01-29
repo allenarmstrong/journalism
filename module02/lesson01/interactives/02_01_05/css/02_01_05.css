@@ -1,0 +1,65 @@
+.ui-navigation-header { background-color:#473E52 !important; }
+.ui-navigation-header.ui-widget-header { padding-top: 15px; }
+.ui_slide h2, .domains h2, .reliables h2 {color:#FFF; }
+
+.ui_interactive .copyright { position:absolute; bottom: 70px; right: 10px;}
+
+
+.purpleTrasparency {
+	background:url(interactives/02_01_05/images/02_01_05-panel_bg.png); 
+	margin:10px; 
+	padding:10px;}
+.purpleTrasparency p, .purpleTrasparency h2 {
+	color: #463d52; 
+	}
+	
+.purpleTrasparency ul {color: #463d52}
+
+
+.domains .tabs, .reliables .tabs { margin: 0px;	margin-left:20px; }
+
+.domains a.tab, .reliables a.tab {
+    float:none;
+	font-size:20px;
+    color: #ffffff;
+	font-weight: 200;
+    background-color: #e0376e;
+    padding: 0px;
+    margin: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+	width:140px;
+	height:60px;
+	border:1px #fff solid;
+	display:inline-block;
+	margin-right:20px;
+	text-align:center;
+	line-height:60px;
+	
+}
+
+.domains a.tab:hover, .domains a.active, .reliables a.tab:hover, .reliables a.active {
+    background: #473e52;
+    color:#fff;
+    font-weight:normal;
+	
+	
+}
+
+.domains .tabs .panel, .reliables .tabs .panel {
+	border:none;
+	padding: 10px;
+ 	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	background-color:transparent;
+}
+
+.domains .tabs .panel-block, .reliables .tabs .panel-block {
+	background:url(interactives/02_01_05/images/02_01_05-panel_bg.png);
+	width: 610px;
+	height:200px;
+	padding:10px;
+	color: #463d52;
+}
+
+.reliables .tabs .panel-block {	height:240px;}

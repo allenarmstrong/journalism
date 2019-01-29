@@ -1,0 +1,157 @@
+/*======================================
+
+CSS DOCUMENT FOR CUSTOM INTERACTIVE STYLES, ABOVE THE ILSKIN templates
+HAVE TO CALL IT IN SETTINGS FILE var course_csslibs = ['../global/css/interactives.css'...
+
+======================================*/
+
+div.activeInteractive {padding-bottom:0px;}
+
+
+/* carousel/slideshow */
+
+.carousel-inner>.item>img {display:inline;}
+.carousel .item, .carousel item{ text-align:center;}
+.carousel {background: transparent url(../../global/images/waves.gif) repeat 0% 0%; margin-bottom:0px; border: 0px solid #fff; position:relative; -webkit-box-shadow:0 0 0 10px white inset; -moz-box-shadow:0 0 0 10px white inset; box-shadow:0 0 0 10px white inset;}
+.mainVersion {overflow:visible !important; border:1px solid #f1f1f1 !important;-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+-o-border-radius: 6px;
+-ms-border-radius: 6px;
+-khtml-border-radius: 6px;
+border-radius: 6px;}
+/*.mainVersion:before, .mainVersion:after
+{
+  z-index: -1;
+  position: absolute;
+  content: "";
+  bottom: 15px;
+  left: 10px;
+  width: 50%;
+  top: 80%;
+  max-width:300px;
+  background: #777;
+  -webkit-box-shadow: 0 15px 10px #777;
+  -moz-box-shadow: 0 15px 10px #777;
+  box-shadow: 0 15px 10px #777;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+}
+.mainVersion:after
+{
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  -o-transform: rotate(3deg);
+  -ms-transform: rotate(3deg);
+  transform: rotate(3deg);
+  right: 10px;
+  left: auto;
+} */
+
+.carousel-caption {
+	position: absolute;
+	bottom: -96px;
+	padding-top: 20px;
+	text-shadow:none !important;
+}
+.carousel-control.left, .carousel-control.right {margin-left:20px !important;}
+.carousel-indicators {right:10px;}
+
+#slideshowone .item{
+	margin:auto;
+	margin-bottom:60px;
+}I 
+
+/* Tables */
+th {font-weight:bold; font-family:'open_sansbold', sans-serif;}
+.table-bordered>thead>tr>th, .table-bordered>thead>tr>td {border-bottom-width:0px;} 
+.table>caption+thead>tr:first-child>th, .table>colgroup+thead>tr:first-child>th, .table>thead:first-child>tr:first-child>th, .table>caption+thead>tr:first-child>td, .table>colgroup+thead>tr:first-child>td, .table>thead:first-child>tr:first-child>td {border-top:2px solid #9c6428;}
+.table-bordered>thead>tr>th, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>tbody>tr>td, .table-bordered>tfoot>tr>td {border:2px solid #9c6428;}
+
+.table-bordered {background-color:#fff;}
+
+.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
+background-color: #f5ebdf;
+}
+.table-condensed>thead>tr>th, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>tbody>tr>td, .table-condensed>tfoot>tr>td {padding:20px;}
+
+/* FlipBook */
+
+.jFlipbook {font-size:13px; line-height:1.2em; background:none; border:none;}
+.booklet {margin-bottom:0px;}
+.booklet .b-page-cover {background:#257578 url(../images/fb_cover.png);}
+.booklet .b-page-cover h3, .booklet .b-page-cover h4, .booklet .b-page-cover p {color:#fff; text-shadow: 1px 1px 0px #333;}
+.booklet .b-page-cover h3 {margin-top:200px;}
+.booklet .b-wrap-left {background-image: url(../images/fb_left.png); background-color:transparent; padding:19px !important;}
+.booklet .b-wrap-right {background-image: url(../images/fb_right.png); background-color:transparent; padding:19px !important;}
+.jFlipbook .mc .alert {margin-top:5px;}
+
+
+/* quiz */ 
+.ui-widget {font-family: 'open_sansregular', sans-serif;}
+
+
+.ui_quiz .quiz_content{
+border-style: solid;
+    border-color: #fff;
+border-width:5px;
+-webkit-box-shadow: inset 0px 0px 0px 2px rgba(150,150,150,1);
+-moz-box-shadow: inset 0px 0px 0px 2px rgba(150,150,150,1);
+box-shadow: inset 0px 0px 0px 2px rgba(150,150,150,1);
+background-color:#f7f4f0;
+height:90% !important;}
+
+.ui_quiz .quiz_navigation {bottom:15px;}
+.ui_quiz .submit {bottom:55px}
+.quiz_navigation label, .ui-button-text {color:#d8c3a6; text-shadow:none;}
+
+.ui-widget-header {background-color:#820707; background-image:none; border:none !important;} 
+progress {height:1.2em;}
+progress::-moz-progress-bar { background-color: #d8c3a6; }
+progress::-webkit-progress-value { background-color: #d8c3a6; }
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {background-color:#820707; background-image:none; border:none;}
+
+
+/* Matching v2 */
+.jMatch_v2 {border-style: solid;
+    border-color: #fff;
+border-width:5px;
+-webkit-box-shadow: inset 0px 0px 0px 2px rgba(150,150,150,1);
+-moz-box-shadow: inset 0px 0px 0px 2px rgba(150,150,150,1);
+box-shadow: inset 0px 0px 0px 2px rgba(150,150,150,1);
+background-color:#f7f4f0 !important;
+}
+
+.jMatch_v2 div.words > div.word { background-color: #820707;}
+
+.jMatch_v2 div.definitions > p.definition {
+width: 90%;
+height: auto;
+display: block;
+text-align: center;
+padding: 10px 0 10px 0;
+line-height: 14px;
+border: 1px solid #333;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+-o-border-radius: 6px;
+-ms-border-radius: 6px;
+-khtml-border-radius: 6px;
+border-radius: 6px;
+margin-bottom: 10px;
+color: #fff;
+background-color: #537FA1;
+}
+.jMatch_v2 div.t3565 > div.t3565Right {margin-top:3px;}
+.jMatch_v2 button.showMatched {
+display: none;}
+.jMatch_v2 #sectionCount {background-color:#820707;}
+
+/* Audio player sizing --- wrap player in a div with audiobox class*/
+.audiobox {
+width: 500px;
+margin: 0px auto;
+}

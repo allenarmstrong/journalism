@@ -1,0 +1,12 @@
+/* CSS Document */
+.col-md-10 {padding-left:0px;}
+.well.default {border-color:#999;}
+.well {-webkit-box-shadow: -3px 3px 3px 0px rgba(0,0,0,0.25);
+-moz-box-shadow: -3px 3px 3px 0px rgba(0,0,0,0.25);
+box-shadow: -3px 3px 3px 0px rgba(0,0,0,0.25);}
+
+.paddit {padding:20px !important; -webkit-box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.25);
+-moz-box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.25);
+box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.25);}
+
+

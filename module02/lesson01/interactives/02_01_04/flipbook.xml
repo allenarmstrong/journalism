@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbook>
+	<directionsTextVer>Text version directions.</directionsTextVer>
+	<cover>
+	  <title>The Cold Equations</title>
+	  <author>by Tom Godwin</author>
+	  <instructions>To open this flipbook, simply select the edge of right side of the book's cover. To advance pages, simply select the right, or left, side. Or use your right, or left, arrow keys on your keyboard.</instructions>
+	  
+	</cover>
+	
+	<page>
+		<![CDATA[
+			<div class="panel panel-default">
+			  <div class="panel-heading" data-toggle="collapse" data-target="#collapseOne">
+					<h3 class="panel-title">Collapsible Group Item #1</h3>
+			  </div>
+			  <div id="collapseOne" class="collapse">
+				<div class="panel-body">
+				  <h3>Content Title</h3>
+				  <p>Webtwo ipsum dolor sit amet, eskobo...</p>
+				</div>
+			  </div>
+			</div>		
+		
+		]]>
+	</page>
+	<page>
+		<![CDATA[
+		
+			<a href="pop/basic_popup.htm" class="pop" data-width="50%" data-height="60%">Title of Link</a>	
+			
+			<p>This is an audio button <audio class="audioBtn" controls src="../../module01/lesson01/media/ThatsGood.mp3" ></audio></p>	
+		]]>
+	</page>
+	<page correct="Great job at doing this" incorrect="Bad, bad, bad" failed="Nope, Da Vinci is not your thing">
+		<![CDATA[
+			<div class="fitb">
+				<p>Da Vinci, whose first name was 
+					<select>
+						<option></option>
+						<option>Michaelangelo</option>
+						<option data-answer="true">Leonardo</option>
+						<option>Giocondo</option>
+					</select>
+					, was born in 1452 in the town of 
+					<select>
+						<option></option>
+						<option>Venice</option>
+						<option>Florence</option>
+						<option data-answer="true">Vinci</option>
+					</select>
+					. He painted the 
+					<select>
+						<option></option>
+						<option data-answer="true">Monalisa</option>
+						<option>Starry Night</option>
+						<option>Ode to Joy</option>
+					</select>				
+					, among others.</p>
+				<p class="answer">Da Vinci, whose first name was *_, was born in 1452 in the town of *_. He painted the *_, among others</p>
+				<button disabled="disabled">Submit</button>
+			</div>
+		]]>
+	</page>
+	<page correct="Great job! You know your Da Vinci facts" incorrect="Try again. You can do it" failed="Keep up the hard work and don't give up">
+		<![CDATA[
+			<div class="tf">
+				<p>Leonardo Da Vinci painted the Monalisa</p>
+				<button data-answer="true">True</button>
+				<button>False</button>
+			</div>
+		]]>
+	</page>
+	<page incorrect="Bad, bad, bad" failed="Nope, Da Vinci is not your thing">
+		<![CDATA[
+			<div class="mc">
+				<p>Which of these was a Da Vinci design?</p>
+				<label><input type="radio" name="choice" value="helicopter" data-answer="true">helicopter</label>
+				<label><input type="radio" name="choice" value="boat">boat</label>
+				<label><input type="radio" name="choice" value="computer">computer</label>
+				<label><input type="radio" name="choice" value="taxi">taxi</label>
+				<button disabled="disabled">Submit</button>
+			</div>
+		]]>
+	</page>
+	<page>
+		<![CDATA[
+      	<p>He was not alone.</p>
+		<p>There was nothing to indicate the fact but the white hand of the tiny gauge on the board before him. The control room was empty but for himself; there was no sound other than the murmur of the drives&mdash;but the white hand had moved. It had been on zero when the little ship was launched from the Stardust; now, an hour later, it had crept up. There was something in the supplies closet across the room, it was saying, some kind of a body that radiated heat.</p>
+		<p>It could be but one kind of a body&mdash;a living, human body.</p>
+		<div class="question tooltip"><span><strong>Question</strong> How does this make you feel? Write your answer in your notes.</span></div>
+		]]>
+	</page>
+	<page>
+		<![CDATA[
+      	<p>He leaned back in the pilot's chair and drew a deep, slow breath, considering what he would have to do. He was an EDS pilot, inured (rollover: accustomed &mdash; generally to something difficult) to the sight of death, long since accustomed to it and to viewing the dying of another man with an objective lack of emotion, and he had no choice in what he must do. There could be no alternative&mdash;but it required a few moments of conditioning for even an EDS pilot to prepare himself to walk across the room and coldly, deliberately, take the life of a man he had yet to meet.</p>
+		<div class="cf">
+			<div class="question left tooltip"><span><strong>Question</strong> Do you know anyone who is like this character? Write your answer in your notes.</span></div>
+			<div class="question left tooltip"><span><strong>Question</strong> Can you relate to the way anyone is feeling in this story so far? Write your answer in your notes.</span>
+		</div>
+		</div>
+		]]>
+	</page>
+	<page>
+		<![CDATA[
+      	<p>He would, of course, do it. It was the law, stated very bluntly and definitely in grim Paragraph L, Section 8, of Interstellar Regulations: Any stowaway discovered in an EDS shall be <span class="tooltip">jettisoned<span><strong>Jettisoned</strong> thrown off the ship</span></span> immediately following discovery.</p>
+		
+		<p>It was the law, and there could be no appeal.</p>
+
+		<div class="cf">
+			<div class="question left tooltip"><span><strong>Question</strong> What would you do if you were in this situation? Write your answer in your notes.</span></div>
+		</div>
+
+		<div class="endPage">***</div>
+		]]>
+	</page>
+	<page>
+		<![CDATA[
+		<p>It was a law not of men's choosing but made imperative by the circumstances of the space frontier. Galactic expansion had followed the development of the hyperspace drive and as men scattered wide across the frontier there had come the problem of contact with the isolated first-colonies and exploration parties. The huge hyperspace cruisers were the product of the combined genius and effort of Earth and were long and expensive in the building. They were not available in such numbers that small colonies could possess them. The cruisers carried the colonists to their new worlds and made periodic visits, running on tight schedules, but they could not stop and turn aside to visit colonies scheduled to be visited at another time; such a delay would destroy their schedule and produce a confusion and uncertainty that would wreck the complex</p>
+		]]>
+	</page>
+	<page>
+		<![CDATA[		
+		<p>interdependence between old Earth and the new worlds of the frontier.</p>
+		<p>Some method of delivering supplies or assistance when an emergency occurred on a world not scheduled for a visit had been needed and the Emergency Dispatch Ships had been the answer. Small and collapsible, they occupied little room in the hold of the cruiser; made of light metal and plastics, they were driven by a small rocket drive that consumed relatively little fuel. Each cruiser carried four EDS's and when a call for aid was received the nearest cruiser would drop into normal space long enough to launch an EDS with the needed supplies or personnel, then vanish again as it continued on its course.</p>
+		<p>The cruisers, powered by nuclear converters, did</p>
+		]]>
+	</page>
+	<page>
+		<![CDATA[
+		<p>not use the liquid rocket fuel but nuclear converters were far too large and complex to permit their installation in the EDS. The cruisers were forced by necessity to carry a limited amount of the bulky rocket fuel and the fuel was rationed with care; the cruiser's computers determining the exact amount of fuel each EDS would require for its mission. The computers considered the course coordinates, the mass of the EDS, the mass of pilot and cargo; they were very precise and accurate and omitted nothing from their calculations. They could not, however, foresee, and allow for, the added mass of a stowaway.</p>
+		]]>
+	</page>
+	<page>
+		<![CDATA[
+		<h3>The End</h3>
+		<h4>You've reached the end of the book.<br /><br /><a href="#/page/1" class="beginning-btn">Would you like to go back to the beginning?</a></h4>
+		]]>
+	</page>
+	<backCover></backCover>
+</flipbook>
